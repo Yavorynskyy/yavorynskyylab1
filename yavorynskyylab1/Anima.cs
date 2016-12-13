@@ -11,6 +11,8 @@ namespace yavorynskyylab1
 
         public Anima(double a1, double b1)
         {
+
+
             a = a1;
             b = b1;
         }

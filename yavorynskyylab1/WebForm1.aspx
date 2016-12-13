@@ -29,7 +29,7 @@
         var b = document.getElementById('TextBox2').value.trim().replace(/,/, '.');
         var r = true;
         if (a === '' || b === '') {
-            alert('Одне або кілька полів є незаповнені');
+            alert('Одне або кілька полiв є незаповнені');
             r = false;
         }
         if (isNaN(a)===true || isNaN(b)===true)
